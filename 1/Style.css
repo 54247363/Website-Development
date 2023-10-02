@@ -1,0 +1,63 @@
+body {
+    background-color: black;
+    padding: 100px;
+
+}
+.border-image {
+    max-width: 100%;
+    max-height: 100%;
+}
+h1 {
+    color: rgb(209, 247, 255);
+    text-align: center;
+    font-family: monospace;
+}
+p{
+    text-align: center;
+}
+.icons{
+    max-width: 10%;
+    color: rgb(255, 42, 109);
+    padding: 2%;
+}
+.leg{
+    color: rgb(209, 247, 255);
+    font-family: monospace;
+}
+footer{
+    text-align: center;
+    color: rgb(209, 247, 255);
+}
+.container {
+    display: flex;
+    text-align: center;
+}
+.picture {
+    width: 30%;
+    margin-left: 10%;
+    margin-right: 5%;
+}
+.biodata {
+    width: 70%;
+    margin-right: 10%;
+    text-align: justify;
+    color: rgb(209, 247, 255);
+    font-family: monospace;
+}
+.pp {
+    border-radius: 50%;
+    max-width: 100%
+}
+.box {
+    margin-left: 10%;
+    margin-right: 10%;
+    height:120px;
+    width:80%;
+    font-family:monospace;
+    overflow:auto;
+    color: rgb(209, 247, 255);
+    text-align: center;
+}
+.ss{
+    max-width: 100%;
+}
